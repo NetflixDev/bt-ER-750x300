@@ -1,0 +1,16 @@
+{
+  "name": "src",
+  "build_size": "750x300",
+  "build_source": {
+    "build_source_path": "./c20-builder/c20-builder-750x300/"
+  },
+  "build_source_options": {
+    "stub_paths": []
+  },
+  "output": "/Users/derek.miranda/Internal/c20/build-templates/bt-ER-750x300",
+  "filters": {},
+  "id": "Container 2.0 - 750x300",
+  "bsid": "d5412a20-4c16-4931-be01-fc3b963beddb",
+  "processing": false,
+  "error": false
+}
